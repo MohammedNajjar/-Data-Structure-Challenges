@@ -1,4 +1,4 @@
-# -Data-Structure-Challenges
+# Data-Structure-Challenges
 
 This repository contains implementations of data structure challenges from the Kodeco Book (Data Structures & Algorithms in Dart).
 
